@@ -23,14 +23,18 @@
 ### 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%234B8BF4.svg?style=for-the-badge&logo=react&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JiSangChoe)
-[![Instagram](https://i.namu.wiki/i/PpCUHjc8PoAlAWoSip-m3KtgYMq7Ft1sI2BiCioMrclYCFdnjCEVKdPyXJ3yqXgHjgboqOp-8Q9z71WTisQy_A.svg)](https://www.instagram.com/ji_ij_sg/)
+[<img src="https://i.namu.wiki/i/PpCUHjc8PoAlAWoSip-m3KtgYMq7Ft1sI2BiCioMrclYCFdnjCEVKdPyXJ3yqXgHjgboqOp-8Q9z71WTisQy_A.svg" alt="Instagram" width="100"/>](https://www.instagram.com/ji_ij_sg/)
 
 ---
 
