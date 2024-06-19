@@ -35,7 +35,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JiSangChoe)
+[![Notion](https://rararis.com/wp-content/uploads/2023/08/%EB%85%B8%EC%85%98Notion-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EB%B0%8F-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.png)](https://spectacular-lycra-af6.notion.site/054ea0f3030b47a28c8484e51d1b6815?pvs=4)
 [<img src="https://i.namu.wiki/i/PpCUHjc8PoAlAWoSip-m3KtgYMq7Ft1sI2BiCioMrclYCFdnjCEVKdPyXJ3yqXgHjgboqOp-8Q9z71WTisQy_A.svg" alt="Instagram" width="50"/>](https://www.instagram.com/ji_ij_sg/)
 
 ---
