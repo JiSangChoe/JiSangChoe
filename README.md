@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:2b90d9,100:00c6ff&height=200&section=header&text=Gi_Mo&fontSize=30&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Gi_Mo&fontSize=40&fontAlignY=40&fontColor=ffffff&animation=fadeIn&desc=Welcome%20to%20my%20GitHub%20profile&descAlignY=60&descAlign=50)
+
 <div align="center">
-  <a href="https://github.com/JiSangChoe/Java_basic">
+  <a href="https://github.com/orgs/RDRG-project/repositories">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JiSangChoe&repo=Java_basic&theme=rose_pine" />
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiSangChoe&layout=compact&theme=rose_pine" />
@@ -10,7 +11,8 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JiSangChoe&theme=rose_pine" />
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,100:2b90d9&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+
 
 ---
 
