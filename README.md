@@ -36,7 +36,7 @@
 
 ### 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JiSangChoe)
-[<img src="https://i.namu.wiki/i/PpCUHjc8PoAlAWoSip-m3KtgYMq7Ft1sI2BiCioMrclYCFdnjCEVKdPyXJ3yqXgHjgboqOp-8Q9z71WTisQy_A.svg" alt="Instagram" width="100"/>](https://www.instagram.com/ji_ij_sg/)
+[<img src="https://i.namu.wiki/i/PpCUHjc8PoAlAWoSip-m3KtgYMq7Ft1sI2BiCioMrclYCFdnjCEVKdPyXJ3yqXgHjgboqOp-8Q9z71WTisQy_A.svg" alt="Instagram" width="50"/>](https://www.instagram.com/ji_ij_sg/)
 
 ---
 
