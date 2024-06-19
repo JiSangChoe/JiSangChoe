@@ -1,9 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:2b90d9,100:00c6ff&height=200&section=header&text=Gi_Mo&fontSize=30&fontColor=ffffff)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JiSangChoe&show_icons=true&theme=rose_pine" />
-</div>
-
 <div align="center">
   <a href="https://github.com/JiSangChoe/Java_basic">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JiSangChoe&repo=Java_basic&theme=rose_pine" />
