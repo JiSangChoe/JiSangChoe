@@ -54,13 +54,13 @@ Java와 Spring Boot를 기반으로 기업 업무시스템을 개발하고 운�
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![VBA](https://img.shields.io/badge/VBA-6A0DAD?style=for-the-badge)
+![VBA](https://img.shields.io/static/v1?label=&message=VBA&color=6A0DAD&style=for-the-badge)
 
 ### Backend
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-BF2025?style=for-the-badge)
+![MyBatis](https://img.shields.io/static/v1?label=&message=MyBatis&color=BF2025&style=for-the-badge)
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 
 ### Frontend
@@ -74,7 +74,7 @@ Java와 Spring Boot를 기반으로 기업 업무시스템을 개발하고 운�
 ### Database
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge)
-![Tibero](https://img.shields.io/badge/Tibero-0A74DA?style=for-the-badge)
+![Tibero](https://img.shields.io/static/v1?label=&message=Tibero&color=0A74DA&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Infrastructure & Tools
@@ -85,14 +85,14 @@ Java와 Spring Boot를 기반으로 기업 업무시스템을 개발하고 운�
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
-![UBI Report](https://img.shields.io/badge/UBI_Report-FF6347?style=for-the-badge)
+![UBI Report](https://img.shields.io/static/v1?label=&message=UBI%20Report&color=FF6347&style=for-the-badge)
 
 ### AI & Interests
 
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-00A67E?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation-009688?style=for-the-badge)
-![Security](https://img.shields.io/badge/Information_Security-2D3748?style=for-the-badge)
+![Security](https://img.shields.io/static/v1?label=&message=Information%20Security&color=2D3748&style=for-the-badge)
 
 </div>
 
@@ -111,4 +111,60 @@ Java와 Spring Boot를 기반으로 기업 업무시스템을 개발하고 운�
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=JiSangChoe&show_icons=true
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=JiSangChoe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiSangChoe&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=JiSangChoe&theme=transparent&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+
+<br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JiSangChoe&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+
+</div>
+
+<br>
+
+## 📂 Featured Repository
+
+<div align="center">
+
+<a href="https://github.com/JiSangChoe/Java_basic">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JiSangChoe&repo=Java_basic&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Java Basic" />
+</a>
+
+<br>
+
+[![Organization](https://img.shields.io/badge/View_Organization-RDRG_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/RDRG-project/repositories)
+
+</div>
+
+<br>
+
+## 📫 Connect with Me
+
+<div align="center">
+
+<a href="mailto:chlwltkd512@naver.com">
+  <img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Email" />
+</a>
+<a href="https://spectacular-lycra-af6.notion.site/054ea0f3030b47a28c8484e51d1b6815?pvs=4">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+</a>
+<a href="https://www.instagram.com/ji_ij_sg/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://github.com/JiSangChoe">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br><br>
+
+**Build. Improve. Evolve.**
+
+*Never stop learning, never stop building.*
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:142D4E,100:00D9FF&height=120&section=footer)
